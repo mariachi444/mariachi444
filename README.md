@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**mariachi444/mariachi444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+I'm Mario Ernesto Enciso Soto from Sinaloa, Mexico. 🇲🇽  
+🎓 Biomedical Engineering student at Universidad Politécnica de Sinaloa.  
+💻 I have a huge interest in cibersecurity and coding.
+I’m always open to feedback and excited to contribute to or join a community.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently...
+- Learning python, linux and computer networks
+
+---
+
+### 🤔 I’m looking for help with...
+- Advice on building a strong __GitHub portfolio__ and tips for start a __cybersecurity career__
+
+---
+
+### 📫 How to reach me:
+- ⚡ Email: <marioencisomx@gmail.com>
+
+---
+
+💥 From [Mario Ernesto Enciso Soto](https://github.com/mariachi444)
+💥 FEEL FREE TO WRITE ME
