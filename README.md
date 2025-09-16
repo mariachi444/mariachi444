@@ -4,7 +4,7 @@
 I'm Mario Ernesto Enciso Soto from Sinaloa, Mexico. 🇲🇽  
 🎓 Biomedical Engineering student at Universidad Politécnica de Sinaloa.  
 💻 I have a huge interest in cibersecurity and coding.
-I’m always open to feedback and excited to contribute to or join a community.
+I’m always open to feedback and excited to contribute or join a community.
 
 ---
 
